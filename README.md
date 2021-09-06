@@ -1,11 +1,16 @@
-### Hi there 👋
+#### Hi there 👋
 
+My name is Claire-Sophie, I am based in Dubai and here are a few things I am currently working on:
+- :fire: cookit is a deep learning model for object detection. The user can upload a picture and find recipes which make the most of available ingredients at home.
+- :sunny: ds_in_dubai is a field study about the data science job opportunities in the UAE
+
+I am also an entrepreneur and working on some nice business ideas :briefcase: ... more to come!
 <!--
 **csseries/csseries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
